@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Drawing</string>
+
+
+
+    <string name="yellow">#E8FF00</string>
+    <string name="black">#FF000000</string>
+
+    <string name="brown">#492F09</string>
+    <string name="darkblue">#0720AA</string>
+    <string name="lightblue">#008EFF</string>
+    <string name="lightgreen">#90FF0E</string>
+    <string name="darkgreen">#066009</string>
+    <string name="red">#980A00</string>
+
+
+</resources>
